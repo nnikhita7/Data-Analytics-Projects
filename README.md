@@ -63,9 +63,7 @@ All Google Colab notebooks are accessible via the following links:
 
 ---
 
-## 
-- 
-    
+
 ---
 
  *Thank you for visiting my portfolio! I’m passionate about leveraging data to solve real-world problems and always open to exciting opportunities in data science and analytics.* 

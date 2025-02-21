@@ -1,7 +1,7 @@
 # Data Science & Analytics Portfolio
 
 Welcome to my data science and analytics portfolio!  
-This repository showcases various projects that demonstrate my skills in data analysis, visualization, web scraping, and big data processing using Python, R, Hadoop, and cloud technologies. Each project includes practical insights, interactive visualizations, and real-world data analysis.
+This repository features projects focused on data analysis, visualization, and big data processing. Each project highlights practical insights, interactive visualizations, and real-world data exploration.
 
 ---
 
